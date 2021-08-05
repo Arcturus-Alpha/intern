@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66.975" height="66.974" viewBox="0 0 66.975 66.974">
+  <defs>
+    <filter id="Ellipse_68" x="0" y="0" width="66.975" height="66.974" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_69" x="4.857" y="1.857" width="57.261" height="57.26" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#fff" flood-opacity="0.569"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_05" x="10.408" y="10.37" width="44.467" height="45.45" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1771" data-name="Group 1771" transform="translate(9 6)">
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Ellipse_68)">
+      <ellipse id="Ellipse_68-2" data-name="Ellipse 68" cx="24.071" cy="24.071" rx="24.071" ry="24.071" transform="matrix(1, -0.02, 0.02, 1, 9, 6.84)" fill="#3943b7" opacity="0.9"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Ellipse_69)">
+      <ellipse id="Ellipse_69-2" data-name="Ellipse 69" cx="19.297" cy="19.296" rx="19.297" ry="19.296" transform="matrix(1, -0.02, 0.02, 1, 13.86, 11.53)" fill="#3943b7" opacity="0.9"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#_05)">
+      <text id="_05-2" data-name="05" transform="matrix(1, -0.02, 0.02, 1, 32.76, 36.59)" fill="#fff" font-size="19" font-family="Poppins-Medium, Poppins" font-weight="500" opacity="0.9"><tspan x="-12.16" y="0">05</tspan></text>
+    </g>
+  </g>
+</svg>
